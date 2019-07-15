@@ -1,20 +1,20 @@
 # Site
-title:              Massively
+title:              m3sh
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://yonidoronpeters.github.io" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   ydp-1
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            yonidoronpeters
 facebook:           default
-instagram:          default
-github:             default
+instagram:          yonidoronpeters
+github:             yonidoronpeters
 
 # personal
 location:           Los Angeles, CA
