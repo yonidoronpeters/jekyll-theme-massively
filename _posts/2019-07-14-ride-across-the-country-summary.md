@@ -29,8 +29,24 @@ To start, it definitely achieved its purpose of helping me come to terms with th
 <span class="image left"><img src="{{ "/images/bad_food.JPG" | absolute_url }}" alt="" /></span>Well, there were many bad parts to the trip. Insane amounts of mosquitoes in Illinois, annoying gnats in Utah, aggressive drivers in Colorado and California, non-stop rain for a day in Virginia, absolutely relentness headwinds in Nevada, and long stretches of road without services. But honestly, non of it was really that bad. These challenges were all just good character builders that made me stronger in the long run (except for the aggressive drivers, I could do without those). Some part of the country also has no access to decent food. Including some rural towns that only have a Dollar General for a grocery store and are basically food deserts. If you have never been to a Dollar General, they don't just have things for $1 any more, they sell actual food. But all of it overly processed and packaged. No fresh fruits or vegetabales of any kind. Many of the restaurants in those towns had very limited options too so I ended up eating fried chicken every day for almost a week.
 
 ## conclusion
-Would I recommend this trip to anyone? <b>Most definitely!</b> This was the biggest adventure of my life so far and I already have a few more bike packing trips in mind which I would like to do within the next few years. What if you are not a cyclist? That doesn't matter. Most other riders I met on the trip were actually not serious cyclists. Some of them haven't biked since they were a kid, some have been weekend wariors but never ridden any serious mileage before. A large percentage of them were also over 60 years old. So really anyone can do it. It will probably take you longer, but still very much possible. 
+<span class="image right"><img src="{{ "/images/family.jpg" | absolute_url }}" alt="" /></span>Would I recommend this trip to anyone? <b>Most definitely!</b> This was the biggest adventure of my life so far and I already have a few more bike packing trips in mind which I would like to do within the next few years. What if you are not a cyclist? That doesn't matter. Most other riders I met on the trip were not serious cyclists. Some of them haven't biked since they were young kids, some are weekend wariors but have never ridden any serious mileage before. A large percentage of them are also over 60 years old. So really anyone can do it. It will probably take you longer, but still very much possible. 
 
-If you would like to meet some cool and interesting people, you can sign up to be a [warmshowers.org](warmshowers.org){:target="_blank"} host on their website. I am very excited to become a host myself now that I am done with the trip. 
+Despite doing the ride "unsupported", meaning I carried my own gear througout the trip and was self sufficient. It wasn't <i>really</i> unsupported. I would have never been able to do this ride without the support of strangers who opened their house to me on warmshowers.org and let me rinse the day's sweat and sunscreen, who fed me large amounts of delicous food, and allowed me to spend the night in the comfort of a bed and out of the elements. I would have never been able to do this without strangers who did random acts of kindness, like handing me water on a really hot day. I would have never been able to do this without support of my girlfriend, family, and friends who kept the moral high and made sure I didn't feel lonely. And finally, I would have never been able to do this without the rest of the riders out on the roads who I really enjoyed meeting and made me feel like I am a part of a great community.
 
-If you enjoyed following along the journey and have read this far, please consider donating to your favorite cancer research organization. If you don't have one, you can donate 
+If you would like to become and warmshowers host and meet some really cool and interesting people, you can sign up on [warmshowers.org](warmshowers.org){:target="_blank"}. I can tell you that I am very excited to become a host myself now that my trip is over. If you can't be a host but would still like to support this awesome idea, you can donate to warmshowers in order to help them keep the website up and running.
+
+If you enjoyed following along the journey and have read this far, please consider donating to your favorite cancer research organization. If you don't have one already, you can donate to the [Israel Cancer Association](http://en.cancer.org.il/template_e/publications.aspx?maincat=39){:target="_blank"}.
+
+## Summary in Numbers
+- 51 total days
+- 44 riding days
+- 3628 miles (5,838.5 km) ridden
+- 182,831 ft (55,727 m) of eleveation gained
+- 82.5 mi (132.8km) ridden per day on average (not including rest days)
+- Hardest riding day: [Day 32: Blanding - Hanksville, UT](https://www.strava.com/activities/2456403597){:target="_blank"}
+- Longest ride: [144.5 mi (232.3 km)](https://www.strava.com/activities/2472601725){:target="_blank"}
+- Shortest ride [47 mi (75.7 km)](https://www.strava.com/activities/2368275220){:target="_blank"}
+- 19 Nights spent with warmshowers hosts, 11 nights of camping, 8 nights in a motel, 5 nights at bike hostels/churches
+- 0 flats (used tubeless tires)
+- 2 sets of tires
+- [<b>what other stats should I include?</b>]
