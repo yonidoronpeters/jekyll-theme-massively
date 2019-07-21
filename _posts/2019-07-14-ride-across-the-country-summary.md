@@ -49,7 +49,7 @@ Throughout her life, my mom has donated to many great non-profit organizations. 
 - Favorite day (also the hardest day): [Blanding - Hanksville, UT](https://www.strava.com/activities/2456403597){:target="_blank"}
 - 19 Nights spent with warmshowers hosts, 11 nights of camping, 8 nights in motels, 5 nights in bike hostels/churches
 - 0 flats (used tubeless tires)
-- 0 serious bike mechanical issues
+- 0 serious mechanical issues
 - 2 sets of tires
 - consumed:
     - ~40 bags of potato chips
