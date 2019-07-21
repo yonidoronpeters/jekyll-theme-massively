@@ -56,3 +56,5 @@ Throughout her life, my mom has donated to many great non-profit organizations. 
 
 ## What's next?
 Since this trip was so rewarding, I already started thinking about my next long distance bike trip, even as I was still riding across the country. There are a few more trips I would like to do in the U.S., such as the western part of TransAmerica Trail which I missed due to getting on the Western Express route. There is a lot more of Utah that I would like to see, and perhaps other part of the country in the south and midwest covered by routes like the Underground Railroad. Adventure Cycling Association has a great [interactive map](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/){:target="_blank"} of several routes they came up with. In addition, touring Europe by bike seems like a great way to see the continent. If you have done a fun bike touring adventure and have any suggestions, or have one on your bucket list, please let me know in the comments below. 
+
+<span class="image fit"><img src="{{ "/images/trout_lake.JPG" | absolute_url }}" alt="" /></span>
