@@ -43,9 +43,10 @@ Throughout her life, my mom has donated to many great non-profit organizations. 
 - 3628 miles (5,838.5 km) ridden
 - 182,831 ft (55,727 m) of elevation gained
 - 82.5 mi (132.8km) ridden per day on average (not including rest days)
-- Hardest riding day: [Day 32: Blanding - Hanksville, UT](https://www.strava.com/activities/2456403597){:target="_blank"}
+- Hardest day: [Day 32: Blanding - Hanksville, UT](https://www.strava.com/activities/2456403597){:target="_blank"}
 - Longest ride: [144.5 mi (232.3 km)](https://www.strava.com/activities/2472601725){:target="_blank"}
-- Shortest ride [47 mi (75.7 km)](https://www.strava.com/activities/2368275220){:target="_blank"}
+- Shortest ride: [47 mi (75.7 km)](https://www.strava.com/activities/2368275220){:target="_blank"}
+- Favorite day (also the hardest day): [Blanding - Hanksville, UT](https://www.strava.com/activities/2456403597){:target="_blank"}
 - 19 Nights spent with warmshowers hosts, 11 nights of camping, 8 nights in motels, 5 nights in bike hostels/churches
 - 0 flats (used tubeless tires)
 - 0 serious bike mechanical issues
@@ -56,7 +57,7 @@ Throughout her life, my mom has donated to many great non-profit organizations. 
     - 0 energy gels
 
 ## What's next?
-Since this trip was so rewarding, I already started thinking about my next long distance bike trip, even as I was still riding across the country. There are a few more trips I would like to do in the U.S., such as the western part of TransAmerica Trail which I missed due to getting on the Western Express route. There is a lot more of Utah that I would like to see, and perhaps other part of the country in the south and midwest covered by routes like the Underground Railroad. Adventure Cycling Association has a great [interactive map](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/){:target="_blank"} of several routes they came up with. In addition, touring Europe by bike seems like a great way to see the continent. If you have done a fun bike touring adventure and have any suggestions, or have one on your bucket list, please let me know in the comments below. 
+Since this trip was so rewarding, I already started thinking about my next long distance bike trip, even as I was still riding across the country. There are a few more trips I would like to do in the U.S., such as the western part of the TransAmerica Trail which I missed due to getting on the Western Express route. There is a lot more of Utah that I would like to see, and perhaps other parts of the country in the south and midwest covered by routes like the Underground Railroad. Adventure Cycling Association has a great [interactive map](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/){:target="_blank"} of several routes they came up with. In addition, touring Europe by bike seems like a great way to see the continent. If you have done a fun bike touring adventure and have any suggestions, or have one on your bucket list, please let me know in the comments below. 
 
 <span class="image fit"><img src="{{ "/images/trout_lake.JPG" | absolute_url }}" alt="" /></span>
 Photo credit: Matt Malone
