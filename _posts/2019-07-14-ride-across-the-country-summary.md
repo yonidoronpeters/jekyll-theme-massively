@@ -33,7 +33,7 @@ To start, it definitely achieved its purpose of helping me come to terms with th
 
 Despite doing the ride "unsupported", meaning I carried my own gear throughout the trip and was self sufficient. It wasn't <i>really</i> unsupported. I would have never been able to do this ride without the support of strangers who opened their house to me on warmshowers.org and let me rinse the day's sweat and sunscreen, who fed me large amounts of delicious food, and allowed me to spend the night in the comfort of a bed and out of the elements. I would have never been able to do this without strangers who did random acts of kindness, like handing me water on a really hot day. I would have never been able to do this without the support of my girlfriend, family, and friends who kept the moral high and made sure I didn't feel lonely. And finally, I would have never been able to do this without the rest of the riders out on the roads who I really enjoyed meeting and made me feel like I am a part of a great community.
 
-If you would like to become and warmshowers host and meet some really cool and interesting people, you can sign up on [warmshowers.org](https://www.warmshowers.org){:target="_blank"}. I can tell you that I am very excited to become a host myself now that my trip is over. If you can't be a host but would still like to support this awesome idea, you can donate to warmshowers in order to help them keep the website up and running.
+If you would like to become a warmshowers host and meet some really cool and interesting people, you can sign up on [warmshowers.org](https://www.warmshowers.org){:target="_blank"}. I can tell you that I am very excited to become a host myself now that my trip is over. If you can't be a host but would still like to support this awesome idea, you can donate to warmshowers in order to help them keep the website up and running.
 
 Throughout her life, my mom has donated to many great non-profit organizations. If you enjoyed following along the journey and have read this far, please consider donating to your favorite cancer research organization. If you don't have one already, you can donate to the [Israel Cancer Association](http://en.cancer.org.il/template_e/publications.aspx?maincat=39){:target="_blank"}.
 
@@ -46,10 +46,11 @@ Throughout her life, my mom has donated to many great non-profit organizations. 
 - Hardest riding day: [Day 32: Blanding - Hanksville, UT](https://www.strava.com/activities/2456403597){:target="_blank"}
 - Longest ride: [144.5 mi (232.3 km)](https://www.strava.com/activities/2472601725){:target="_blank"}
 - Shortest ride [47 mi (75.7 km)](https://www.strava.com/activities/2368275220){:target="_blank"}
-- 19 Nights spent with warmshowers hosts, 11 nights of camping, 8 nights in motels, 5 nights at bike hostels/churches
+- 19 Nights spent with warmshowers hosts, 11 nights of camping, 8 nights in motels, 5 nights in bike hostels/churches
 - 0 flats (used tubeless tires)
+- 0 serious bike mechanical issues
 - 2 sets of tires
-- Food consumed:
+- consumed:
     - ~40 bags of potato chips
     - ~30 milkshakes
     - 0 energy gels
