@@ -9,7 +9,7 @@ comments: true
 Photo credit: [Arthur Tunelli](https://www.instagram.com/theartofnutelli/){:target="_blank"}
 
 ## The People
-After my mom passed away from cancer in late March, 2019 I was pretty devastated. There was no way I could just go back to my "normal" life right after she died. Thankfully, my manager at work is a really incredible person and the company I work for, SAP, has a policy in place for instances just like this one, so I was able to take almost 4 months off from work and dedicate some time to myself. It was pretty clear to me that I had to do something out of the ordinary and embark on an adventure that would
+After my mom passed away from cancer in late March, 2019 I was pretty devastated. There was no way I could just go back to my "normal" life right after she died. Thankfully, my manager at work is a really incredible person and the company I work for, SAP, has a policy in place for instances just like this one, so I was able to take almost 4 months off from work and dedicate some time to myself. It was pretty clear to me that I had to do something out of the ordinary and embark on an adventure that would:
 - really challenge me
 - allow for a lot of thinking time
 - be possible to do on my own
