@@ -1,0 +1,32 @@
+NOTES:
+Get new token: https://developers.facebook.com/tools/explorer
+Current token expires March 22
+get all my posts: https://graph.facebook.com/v21.0/me/feed?access_token={token_value}
+get all posts with images: https://graph.facebook.com/v21.0/me/feed?fields=message,created_time,attachments&access_token={token_value}
+until: 2019-07-01T05:11:54+0000 (1561979436) post id: 634149199_10156639179249200
+use 1561788560 for 'since' to start
+since: 2019-05-11T02:32:43+0000 (1557468636) post id: 634149199_10156519550469200
+with time filter:
+https://graph.facebook.com/v21.0/me/feed?since=1561788560&until=1561979436&fields=message,created_time,attachments&access_token={token_value}
+
+psuedo code:
+
+get all posts for time range
+while next page isn't empty:
+    for each post:
+        process post procedure
+
+
+process post procedure:
+    create markdown file
+    using the post message -> procces title from the message using regex similar to: "^Day*)\n$". then split that using regex "^d+*)\n$", use the first part as title and the second as excerpt
+    extract date from created time (after conversion to local Colorado time) and set on post as date
+    Format the message into paragraphs and add to post body
+    for each attachments.data.subattachments.data:
+       save media.image.src into images folder under a folder with the post date
+       Set first image to post image title
+       The rest, split nicely into the post using span with image right, left, or fit CSS classes
+       write markdown file to _posts folder with title in format: "YYYY-MM-DD-title.md"
+
+// TODO
+Use chatgpt to write the code for above
